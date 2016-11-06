@@ -1,0 +1,16 @@
+;;; VLisp project file [V2.0] InOutCSV saved to:[C:/Users/Alexander/Dropbox/AutodeskApps/In&OutCSV/Code] at:[11/17/14] 
+(VLISP-PROJECT-LIST
+    :NAME
+    InOutCSV
+    :OWN-LIST
+    ("In&OutCSV")
+    :FAS-DIRECTORY
+    "C:\\Users\\Alexander\\Dropbox\\AutodeskApps\\In&OutCSV\\Code"
+    :TMP-DIRECTORY
+    "C:\\Temp"
+    :PROJECT-KEYS
+    (:BUILD (:standard) :MERGED nil :SAFE-MODE T :MSGLEVEL 1)
+    :CONTEXT-ID
+    :AUTOLISP
+)
+;;; EOF
